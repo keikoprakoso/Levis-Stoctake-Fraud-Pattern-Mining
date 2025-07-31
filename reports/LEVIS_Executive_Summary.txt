@@ -1,0 +1,39 @@
+
+EXECUTIVE SUMMARY - LEVIS STOCKTAKE ANALYSIS
+============================================================
+
+OVERVIEW:
+This analysis examined 104 
+stocktake records across 8 
+stores from 2023-07-25 
+to 2024-09-11.
+
+KEY FINDINGS:
+
+1. INVENTORY HEALTH:
+   - Overall Health Score: 79.5%
+   - Shrinkage Rate: 0.00%
+   - Inventory Turnover: 0.12
+
+2. FRAUD RISK ASSESSMENT:
+   - High-Risk Periods: 0
+   - Risk Rate: 0.00%
+   - Average Fraud Score: 0.29
+
+3. CRITICAL ALERTS:
+
+4. PERFORMANCE HIGHLIGHTS:
+   - Top Performing Stores: MSI_ATRIUM_PLAZA, MSI_ARTHA_GADING_MEN, MSI_TAMAN_ANGGREK
+   - Stores Requiring Attention: SOGO_KARAWACI_LADIES, SOGO_CENTRAL_PARK, GALERIES_LAFAYETTE
+
+5. IMMEDIATE ACTION ITEMS:
+   1. Focus on 2 underperforming stores: SOGO_CENTRAL_PARK, SOGO_KARAWACI_LADIES
+
+RECOMMENDATIONS:
+- Implement enhanced inventory controls for high-risk stores
+- Review and optimize counting procedures
+- Establish regular fraud monitoring protocols
+- Focus on stores with poor performance metrics
+
+This analysis provides a foundation for data-driven inventory management 
+and fraud prevention strategies aligned with industry best practices.
